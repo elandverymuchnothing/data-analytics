@@ -1,0 +1,7 @@
+2. There are 402.382 datasets.
+3. Department of Health and Human Services. 
+4. You can click the publisher link and datasets from the organization will show in the results.
+6. Only 5.
+7. With nutrition, 229 datasets were in the results. Food composition returned 17 datasets.
+8a. The foundation food appears.
+8b. The most recent downloads can be found; the files are very large depending on format. More information will be found in documentation pages and download fields.
