@@ -1,0 +1,23 @@
+1. Before doing any other investigation, list two or three questions that this infographic
+and explanation of methodology raise in your mind. 
+
+How many people out of all the regions were accounted for?
+This article was published in 2025. I wonder how old the data used for this project is.
+
+
+2. Where can you find Google Trends search data? Provide the URL.
+
+https://trends.google.com/trends/
+
+3. The article concluded that “milkshakes take the crown as the ultimate breakup food,
+topping the list in six states.” Pull up Google Trends data on Milkshake (beverage) and
+change the date range to February 1, 2024 through February 28, 2025.
+
+
+a) What is the highest peak recorded in the line chart for “Interest over time”? 
+
+Feb 28, 2025-Mar 31, 2025
+
+b) What is the lowest dip recorded?
+
+Nov 30, 2024-Dec 31, 2024
